@@ -1,45 +1,48 @@
 const movies = [
+
+  {
+    "titre" : "Viking",
+    "realisateur" : "Michael Hirst",
+    "description" : "Scandinavie, à la fin du 8ème siècle. Ragnar Lodbrok, un jeune guerrier viking, est avide d'aventures et de nouvelles conquêtes. Lassé des pillages sur les terres de l'Est, il se met en tête d'explorer l'Ouest par la mer.",
+    "dureeTotale" : 120,
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AXVl_xWIxb7QOJevN8HEx_fxOzU7_UGlWA&usqp=CAU"
+    
+  },
+
     {
-      "titre" : "13: Game of Death",
-      "realisateur" : "Chookiat Sakveerakul",
-      "description" : "After losing his job, his car and his money, Phuchit, Krissada Sukosol, races against time to complete 13 tasks ordered by an anonymous caller who promised 100,000,000 Thai Baht upon completion.",
-      "dureeTotale" : 114,
-      "imageUrl" : "13_game_of_death.jpg"
-    },
-    {
-      "titre" : "Alien",
-      "realisateur" : "Ridley Scott",
-      "description" : "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+      "titre" : "Gameofthrones",
+      "realisateur" : "David Benioff",
+      "description" : "Neuf familles nobles rivalisent pour le contrôle du Trône de Fer dans les sept royaumes de Westeros. Pendant ce temps, des anciennes créatures mythiques oubliées reviennent pour faire des ravages.",
       "dureeTotale" : 117,
-      "imageUrl" : "alien.jpg"
+      "imageUrl" : "https://w0.peakpx.com/wallpaper/324/700/HD-wallpaper-got-game-of-thrones.jpg"
     },
     {
-      "titre" : "Magnolia",
-      "realisateur" : "Paul Thomas Anderson",
-      "description" : "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
-      "dureeTotale" : 188,
-      "imageUrl" : "magnolia.jpg"
+      "titre" : "Power",
+      "realisateur" : "50cent",
+      "description" : "James St. Patrick, surnommé Ghost, est le propriétaire d'une boîte de nuit populaire à New York. En parallèle, il est un acteur majeur dans l'un des plus grands réseaux de drogues illicites de la ville.",
+      "dureeTotale" : 40,
+      "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjp5kjV-Pb9YkRS1zi-iNgrpCZsh8tfO6pwrV_qVXUmZdPEDsvPFW81DHrPjSSbajmCb0&usqp=CAU"
     },
     {
-      "titre" : "Donnie Darko",
-      "realisateur" : "Richard Kelly",
-      "description" : "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
-      "dureeTotale" : 113,
-      "imageUrl" : "donnie_darko.jpg"
-    },
-    {
-      "titre" : "Dobermann",
-      "realisateur" : "Jan Kounen",
-      "description" : "Dobermann is the world's most ruthless bank robber and with his gang rob bank after bank, now in Paris. What can the police do but to let the mad, morally bankrupt police commissioner loose on him?",
-      "dureeTotale" : 94,
+      "titre" : "Ozark",
+      "realisateur" : "Bill Dubuque",
+      "description" : "Marty blanchit de l'argent pour le compte d'un baron de la drogue. Lorsque son partenaire le trahit, il déménage avec sa famille aux monts Ozarks. Là-bas, il se retrouve opposé à un dealer local, à une bande de voyous et à un agent du FBI tenace.",
+      "dureeTotale" : 700,
       "imageUrl" : "dobermann.jpg"
     },
     {
-      "titre" : "Starship Troopers",
-      "realisateur" : "Paul Verhoeven",
-      "description" : "Humans in a fascist, militaristic future wage war with giant alien bugs.",
-      "dureeTotale" : 129,
-      "imageUrl" : "starship_troopers.jpg"
+      "titre" : "Blacklist",
+      "realisateur" : "Jon Bokenkamp",
+      "description" : "L'ex-agent du gouvernement Raymond Red Reddington est l'un des fugitifs les plus recherchés au monde. Il accepte de collaborer avec le FBI à condition de travailler avec la profileuse Elizabeth Keen.",
+      "dureeTotale" : 900,
+      "imageUrl" : "https://www.ecranlarge.com/uploads/image/001/150/y3huzln26zgnw4rcr0h4ptwepfi-422.jpg"
+    },
+    {
+      "titre" : "Narcos",
+      "realisateur" : "Chris Brancato",
+      "description" : "Inspirée de l'histoire du célèbre narcotrafiquant de Medellín Pablo Escobar, cette série raconte la guerre sanglante des cartels en Colombie.",
+      "dureeTotale" : 70,
+      "imageUrl" : "https://vl-media.fr/wp-content/uploads/2017/09/narcos3_cover.jpg"
     }
 ];
 
