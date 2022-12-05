@@ -7,9 +7,7 @@ const movies = [
     "dureeTotale": 120,
     "imageUrl": "viking.jpg",
     "_id": "Viking",
-    "bandeAnnonce": "https://www.youtube.com/embed/DG_dPkDtAI0"
-
-    
+    "bandeAnnonce": "https://www.youtube.com/embed/DG_dPkDtAI0"   
   },
 
     {
@@ -56,6 +54,7 @@ const movies = [
       "imageUrl": "narcos.jpg",
       "_id": "narcos",
       "bandeAnnonce": "https://www.youtube.com/embed/sFlUFVJFGNA"
+
     }
 ];
 
