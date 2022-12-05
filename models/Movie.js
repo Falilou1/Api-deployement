@@ -1,11 +1,14 @@
 const movies = [
 
   {
-    "titre" : "Viking",
-    "realisateur" : "Michael Hirst",
-    "description" : "Scandinavie, à la fin du 8ème siècle. Ragnar Lodbrok, un jeune guerrier viking, est avide d'aventures et de nouvelles conquêtes. Lassé des pillages sur les terres de l'Est, il se met en tête d'explorer l'Ouest par la mer.",
-    "dureeTotale" : 120,
-    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AXVl_xWIxb7QOJevN8HEx_fxOzU7_UGlWA&usqp=CAU"
+    "titre": "Viking",
+    "realisateur": "Michael Hirst",
+    "description": "Scandinavie, à la fin du 8ème siècle. Ragnar Lodbrok, un jeune guerrier viking, est avide d'aventures et de nouvelles conquêtes. Lassé des pillages sur les terres de l'Est, il se met en tête d'explorer l'Ouest par la mer.",
+    "dureeTotale": 120,
+    "imageUrl": "viking.jpg",
+    "_id": "Viking",
+    "bandeAnnonce": "https://www.youtube.com/embed/mAl60ykBm4A"
+
     
   },
 
