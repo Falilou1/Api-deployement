@@ -7,7 +7,7 @@ const movies = [
     "dureeTotale": 120,
     "imageUrl": "viking.jpg",
     "_id": "Viking",
-    "bandeAnnonce": "https://www.youtube.com/embed/DG_dPkDtAI0"
+    "bandeAnnonce": "mAl60ykBm4A"
 
     
   },
@@ -19,7 +19,7 @@ const movies = [
       "dureeTotale": 117,
       "imageUrl": "game-of-thrones.jpg",
       "_id": "Gameofthrones",
-      "bandeAnnonce": "https://www.youtube.com/embed/aAF12LNAeNI"
+      "bandeAnnonce": "aAF12LNAeNI"
     },
     {
       "titre": "Power",
@@ -28,7 +28,7 @@ const movies = [
       "dureeTotale": 40,
       "imageUrl": "power.jpg",
       "_id": "Power",
-      "bandeAnnonce": "https://www.youtube.com/embed/94Z7yqmlNq0"
+      "bandeAnnonce": "94Z7yqmlNq0"
     },
     {
       "titre": "Ozark",
@@ -37,7 +37,7 @@ const movies = [
       "dureeTotale": 700,
       "imageUrl": "ozark.jpg",
       "_id": "Ozarks",
-      "bandeAnnonce": "https://www.youtube.com/embed/pJlLLif3v9k"
+      "bandeAnnonce": "pJlLLif3v9k"
     },
     {
       "titre": "Blacklist",
@@ -46,7 +46,7 @@ const movies = [
       "dureeTotale": 900,
       "imageUrl": "blacklist.jpg",
       "_id": "Blacklist",
-      "bandeAnnonce": "https://www.youtube.com/embed/DG_dPkDtAI0"
+      "bandeAnnonce": "DG_dPkDtAI0"
     },
     {
       "titre": "Narcos",
@@ -55,7 +55,7 @@ const movies = [
       "dureeTotale": 70,
       "imageUrl": "narcos.jpg",
       "_id": "narcos",
-      "bandeAnnonce": "https://www.youtube.com/embed/sFlUFVJFGNA"
+      "bandeAnnonce": "sFlUFVJFGNA"
     }
 ];
 
