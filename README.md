@@ -9,3 +9,4 @@
 ## Etape 4 : taper "nodemon start"
 
 ## Etape 5 : se rendre à l'adresse suivante : [http://localhost:3000/api/movies][http://localhost:3000/api/movies]
+## Etape 6 : se rendre à l'adresse suivante : [https://agreeable-glasses-clam.cyclic.app/api/movies]
